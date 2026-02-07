@@ -2,8 +2,9 @@
 
 This project is a front-end recreation of selected sections from the Cursor website.  
 The goal of the assignment was to practice layout structuring, visual hierarchy, spacing, and component styling while matching the look and feel of a modern SaaS landing page.
-Live Website : https://cursor-assignment-nine.vercel.app/
 
+Live Website : https://cursor-assignment-nine.vercel.app/
+<br>
 
 ![Cursor UI Clone Assignment](Cursor-Assignment.jpeg)
 
